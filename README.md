@@ -12,15 +12,18 @@ Tasks are executed based on priority using Java PriorityQueue. Higher priority t
 - Object-Oriented Programming
 
 ## How to Run
+```
 javac Main.java
 java Main
-
+```
 
 ## Sample Output
+```
 Executing tasks:
 Task ID: 3, Name: System Update, Priority: 3
 Task ID: 1, Name: Database Backup, Priority: 2
 Task ID: 2, Name: Email Notifications, Priority: 1
+```
 
 
 ## Learning Outcome
